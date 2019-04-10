@@ -8,8 +8,8 @@ Official golang implementation of the Solidum protocol.
 ## Building the source
 
 For prerequisites and detailed build instructions please read the
-[Installation Instructions](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum)
-on the Ethereum's wiki page.
+[Installation Instructions](https://github.com/solidum-network/docs/wiki/Installing-Solidum)
+on the Solidum's wiki page.
 
 Building geth requires both a Go (version 1.9 or later) and a C compiler.
 You can install them using your favourite package manager.
