@@ -60,7 +60,7 @@ var SolidumBootnodes = []string{
 // SolidumTestnetBootnodes are the enode URLs of the P2P bootstrap nodes running on the
 // Solidum test network.
 var SolidumTestnetBootnodes = []string{
-	"enode://47e556ec920fe63c1b0adfc5b376c9d68b897225713d03a440139a6884bf0720c2a1a9c943eddb2a52a6ac840290c680f12094ceb065d6bcfaea70ca90beb9b1@62.252.209.5:30303", //B1
+	"enode://e7f2884178d427d3dac51b141d4a93ec07a7c5b13b4a64cf814a549ef702d8ba58a79fd8743c7510e7216030dd59d0c1a3c2d4ae7cd7d2c078f35d0f6fe95c54@159.65.90.161:30303", //TB London
 }
 
 // DiscoveryV5Bootnodes are the enode URLs of the P2P bootstrap nodes for the
