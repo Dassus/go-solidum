@@ -50,7 +50,7 @@ var RinkebyBootnodes = []string{
 // SolidumBootnodes are the enode URLs of the P2P bootstrap nodes running on the
 // Solidum main network.
 var SolidumBootnodes = []string{
-	"enode://47e556ec920fe63c1b0adfc5b376c9d68b897225713d03a440139a6884bf0720c2a1a9c943eddb2a52a6ac840290c680f12094ceb065d6bcfaea70ca90beb9b1@62.252.209.5:30303", //B1
+	"enode://153b1a36602a6f30976b609f366063b33bdabee6d870b6f29e2690f39487caf6cc30564cb7c5ad404e6d325930b73dcc35fb632157d7bd0c88019f5764e6f014@178.128.189.22:30303", //B1
 }
 
 // SolidumTestnetBootnodes are the enode URLs of the P2P bootstrap nodes running on the
