@@ -2,7 +2,7 @@
 
 Official golang implementation of the Solidum protocol.
 
-[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/nthXNEv)
+[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/VS6TyXW)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SolidumNetwork.svg?color=%231e87f0&label=Follow%20us&style=popout)](https://twitter.com/SolidumNetwork)
 
 ## Building the source
